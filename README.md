@@ -3,6 +3,7 @@
 ## This project focusses on the brain tumor detection using U-net. A dice score of .98 was achieved. The project is divided in 2 parts:
 
 1). To train the u-net model using the file unet.py.
+
 2). To segment the brain tumor region using predict.py.
 
 ## Dataset:
