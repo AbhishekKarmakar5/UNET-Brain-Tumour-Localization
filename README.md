@@ -1,6 +1,7 @@
 # UNET-Brain-Tumour-Localization
 
-## This project focusses on the brain tumor detection using U-net. A dice score of 0.98 was achieved. The project is divided in 2 parts:
+## This project focusses on the brain tumor detection using U-net. 
+## A dice score of 0.98 was achieved. The project is divided in 2 parts:
 
 1). To train the u-net model using the file unet.py.
 
