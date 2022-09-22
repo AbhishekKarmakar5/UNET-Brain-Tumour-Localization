@@ -16,7 +16,6 @@ The total dataset is divided into training and test set in the ratio 3:1. The tr
 ## Working pipeline:
 
 The working is as follows:
-
 1). Using unet.py train the model with 50 epochs(epochs may be varied).
 2). The model weights are automatically saved in a file called "result.h5
 3). The predict.py file, when run, loads these trained and saved weights and then uses them to find the brain tumor region.
